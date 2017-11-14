@@ -1,9 +1,9 @@
-package com.ting.FindMedian;
+package com.ting;
 
 import java.util.ArrayList;
 import java.util.Arrays;
 
-public class Solution {
+public class FindMedian {
 
     public static void main(String[] args) {
 

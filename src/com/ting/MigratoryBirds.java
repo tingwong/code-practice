@@ -1,4 +1,4 @@
-package com.ting.Implementation;
+package com.ting;
 
 import java.util.*;
 

@@ -1,6 +1,6 @@
-package com.ting.Kangaroo;
+package com.ting;
 
-public class Solution {
+public class Kangaroo {
 
     public static void main(String[] args) {
 

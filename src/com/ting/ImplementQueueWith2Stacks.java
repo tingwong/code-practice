@@ -1,15 +1,15 @@
-package com.ting.ImplementQueueWith2Stacks;
+package com.ting;
 
 import java.util.Stack;
 
-public class Queue {
+public class ImplementQueueWith2Stacks {
 
     private Stack<Integer> stack1 = new Stack();
     private Stack<Integer> stack2 = new Stack();
 
 
     public static void main(String[] args) {
-        Queue queue = new Queue();
+        ImplementQueueWith2Stacks queue = new ImplementQueueWith2Stacks();
 
         queue.enqueue(15);
         queue.enqueue(13);

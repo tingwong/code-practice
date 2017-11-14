@@ -1,6 +1,6 @@
-package com.ting.DiagonalSums;
+package com.ting;
 
-public class Solution {
+public class DiagonalSums {
 
     public static void diagonalDifference (int[][] matrix) {
 

@@ -1,8 +1,8 @@
-package com.ting.BalancedBracket;
+package com.ting;
 
 import java.util.*;
 
-public class Solution {
+public class BalancedBracket {
 
     public static boolean isBalanced(String expression) {
 

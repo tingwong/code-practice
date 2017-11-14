@@ -1,11 +1,11 @@
-package com.ting.BirthdayCakeCandles;
+package com.ting;
 
 import java.lang.reflect.Array;
 import java.util.Arrays;
 import java.util.HashMap;
 import java.util.Map;
 
-public class Solution {
+public class BirthdayCandles {
 
     public static void main(String[] args) {
 

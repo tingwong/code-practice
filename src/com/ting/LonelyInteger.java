@@ -1,12 +1,12 @@
-package com.ting.LonelyInteger;
+package com.ting;
 
 import java.util.HashMap;
 import java.util.Map;
 
-//Consider an array of  integers, , where all but one of the integers occur in pairs.
+//Consider an array of  integers, where all but one of the integers occur in pairs.
 // In other words, every element in  occurs exactly twice except for one unique element.
 
-public class Solution {
+public class LonelyInteger {
 
     public static void main(String[] args) {
         int[] integerArray = {1, 1, 2};

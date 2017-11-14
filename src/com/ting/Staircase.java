@@ -1,6 +1,6 @@
-package com.ting.Staircase;
+package com.ting;
 
-public class Solution {
+public class Staircase {
 
     public static void main(String[] args) {
 
